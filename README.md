@@ -7,3 +7,5 @@ The theme is also hosted on [the Chrome Web Store](https://chrome.google.com/web
 ## Extra Infos
 
 This was created with [ThemeBeta's Chrome theme creator](https://www.themebeta.com/chrome-theme-creator-online.html).
+
+![screenshot](http://i.imgur.com/zWuHjhN.png)
